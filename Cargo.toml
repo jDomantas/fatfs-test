@@ -1,0 +1,8 @@
+[package]
+name = "fatfs-test"
+version = "0.1.0"
+authors = ["djade <djadenkus@gmail.com>"]
+
+[dependencies]
+fatfs = { path = "fatfs" }
+basic_io = { path = "basic_io" }

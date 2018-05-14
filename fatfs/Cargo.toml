@@ -1,0 +1,9 @@
+[package]
+name = "fatfs"
+version = "0.2.0"
+
+[dependencies]
+byteorder = "1"
+bitflags = "1.0"
+log = "0.4"
+basic_io = { path = "../basic_io" }
